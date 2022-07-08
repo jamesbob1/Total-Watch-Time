@@ -1,4 +1,4 @@
-./src/CLIENT_SECRET.json
+
 
 
 # Byte-compiled / optimized / DLL files
@@ -11,6 +11,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+idea/
 build/
 develop-eggs/
 dist/
@@ -214,3 +215,4 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+/src/CLIENT_SECRET.json
